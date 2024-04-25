@@ -3,6 +3,7 @@
 
 
 Hey there, I’m PRANJWAL GUPTA, 
+A FULL STACK DEVELOPER
 
 
 ## 🔗 Links
