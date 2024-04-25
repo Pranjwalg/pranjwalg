@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pranjwal Gupta</h1>
+<h1 align="center">Hi 👋, I'm Pranjwal Gupta
+
+a Full Stack Developer
+</h1>
 
 
 
-Hey there, I’m PRANJWAL GUPTA, 
-A FULL STACK DEVELOPER
+
 
 
 ## 🔗 Links
