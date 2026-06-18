@@ -1,14 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pranjwal+Gupta;Technical+Team+Lead;Full+Stack+Developer;SaaS+%7C+Cloud+%7C+AWS+Enthusiast" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Pranjwal%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Team%20Lead%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<h3 align="center">🚀 Building scalable SaaS platforms & cloud-native apps from Noida, India</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Architecting+Multi-Tenant+SaaS+Platforms+%E2%9A%99%EF%B8%8F;Deploying+on+AWS+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+Kubernetes+%E2%9A%93;Leading+Teams+%26+Shipping+Production+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
 
 <br/>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranjwal-gupta" target="_blank">
@@ -106,13 +105,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranjwalg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranjwalg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjwalg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjwalg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="45%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjwalg&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranjwalg&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </p>
 
 ---
@@ -144,12 +147,33 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranjwalg&label=Profile+Views&color=6366f1&style=flat" alt="Profile Views"/>
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
+
+> 💡 **Note:** To activate this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `Pranjwalg/Pranjwalg` — it auto-generates daily!
+
+---
+
+## 🎯 Currently Building
+
+```text
+┌─────────────────────────────────────────────────┐
+│  🏗️  Multi-tenant SaaS CRM (15+ modules)         │
+│  💳  Subscription & Auto-Activation Billing      │
+│  📞  Call Tracking + WhatsApp Integration         │
+│  🔁  Rule-Based Lead Auto-Assignment Engine       │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranjwalg&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=150&section=footer"/>
 
 <p align="center">⭐ <i>If you find my work interesting, feel free to connect!</i> ⭐</p>
