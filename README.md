@@ -114,9 +114,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjwalg&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="45%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranjwalg&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
 
 ---
 
@@ -152,8 +149,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
-> 💡 **Note:** To activate this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named `Pranjwalg/Pranjwalg` — it auto-generates daily!
 
 ---
 
