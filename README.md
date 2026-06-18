@@ -152,18 +152,7 @@
 
 ---
 
-## 🎯 Currently Building
 
-```text
-┌─────────────────────────────────────────────────┐
-│  🏗️  Multi-tenant SaaS CRM (15+ modules)         │
-│  💳  Subscription & Auto-Activation Billing      │
-│  📞  Call Tracking + WhatsApp Integration         │
-│  🔁  Rule-Based Lead Auto-Assignment Engine       │
-└─────────────────────────────────────────────────┘
-```
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranjwalg&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
