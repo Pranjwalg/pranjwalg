@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Pranjwal%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Team%20Lead%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Pranjwal%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Architecting+Multi-Tenant+SaaS+Platforms+%E2%9A%99%EF%B8%8F;Deploying+on+AWS+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+Kubernetes+%E2%9A%93;Leading+Teams+%26+Shipping+Production+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Architecting+Multi-Tenant+SaaS+Platforms+%E2%9A%99%EF%B8%8F;Deploying+on+AWS+%E2%98%81%EF%B8%8F+%7C+Docker+%F0%9F%90%B3+%7C+Kubernetes+%E2%9A%93;Building+Production-Grade+SaaS+Products+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
 <br/>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranjwal-gupta" target="_blank">
@@ -31,7 +30,7 @@
 ```yaml
 🏢 Role:        Senior Software Engineer & Full Stack Developer @ Infosware Private Limited
 🛠️ Building:    Multi-tenant SaaS CRM — 15+ modules, RBAC, real-time, production-grade
-☁️ Cloud:       AWS | Docker | Kubernetes | CI/CD pipelines
+☁️ Cloud:       AWS | Hostinger | Docker | Kubernetes | CI/CD pipelines
 🎓 Education:   Pursuing M.Tech (CSE) alongside full-time work
 📄 Research:    Published — "Sarthak Companion: AI-Based Grief Support Framework"
 💡 Focus:       Scalable architecture · Clean code · Real-world impact
@@ -94,8 +93,9 @@
 | **Frontend** | React.js, Next.js, Redux Toolkit, Tailwind CSS, ShadCN UI, Bootstrap |
 | **Backend** | Node.js, NestJS, Express.js, REST APIs, Socket.IO |
 | **Databases & ORM** | PostgreSQL, MongoDB, MySQL, Prisma ORM |
-| **Cloud & DevOps** | AWS (EC2, ECS, EKS, ECR, RDS, S3, IAM, VPC, EBS, CloudWatch, Load Balancer, Amplify, CodePipeline, CodeBuild, CodeDeploy), Docker, Kubernetes, Linux |
+| **Cloud & DevOps** | AWS (EC2, ECS, EKS, ECR, RDS, S3, IAM, VPC, EBS, CloudWatch, Load Balancer, Amplify, CodePipeline, CodeBuild, CodeDeploy), Hostinger, Docker, Kubernetes, Linux |
 | **CI/CD & Monitoring** | GitHub Actions, Shell Scripting, Cron Jobs, Winston, Better Stack |
+| **Payments** | Razorpay Payment Gateway, Subscription & Billing Systems |
 | **Tools** | Git, GitHub, Vercel, Postman |
 
 </details>
@@ -114,7 +114,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjwalg&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="45%"/>
 </p>
 
-
 ---
 
 ## 🏆 Highlights
@@ -122,25 +121,42 @@
 <table>
 <tr>
 <td>🏗️</td>
-<td>Architected a <b>15+ module SaaS CRM</b> with RBAC, real-time notifications & multi-tenant architecture</td>
+<td>Architected a <b>15+ module SaaS CRM</b> with RBAC, real-time notifications & multi-tenant architecture — live at <b>app.infoswarecrm.com</b></td>
+</tr>
+<tr>
+<td>💳</td>
+<td>Built complete <b>Subscription & Billing system</b> with Razorpay integration covering plan management and renewals</td>
+</tr>
+<tr>
+<td>🔗</td>
+<td>Integrated <b>LinkedIn & IndiaMart</b> lead sources with automated rule-based lead assignment engine</td>
 </tr>
 <tr>
 <td>🏛️</td>
 <td>Built a <b>Karnataka Government</b> smart card vehicle platform — reduced manual effort by <b>~70%</b></td>
 </tr>
 <tr>
-<td>⚡</td>
-<td>Boosted platform performance by <b>80–85%</b> through Next.js & Redux optimization</td>
+<td>☁️</td>
+<td>Owned end-to-end <b>AWS & Hostinger</b> deployments with zero-downtime CI/CD pipelines</td>
 </tr>
 <tr>
 <td>📝</td>
-<td>Published a <b>research paper</b> in IRJMETS (Vol. 8, Issue 6, June 2026)</td>
-</tr>
-<tr>
-<td>🌐</td>
-<td>Deployed & managing <b>production apps</b> on AWS with zero-downtime CI/CD</td>
+<td>Published a <b>research paper</b> in IRJMETS (Impact Factor: 8.187 | Vol. 8, Issue 6, June 2026)</td>
 </tr>
 </table>
+
+---
+
+## 🎯 Currently Building
+
+```text
+┌─────────────────────────────────────────────────┐
+│  🏗️  Multi-tenant SaaS CRM (15+ modules)         │
+│  💳  Subscription & Auto-Activation Billing      │
+│  📞  Call Tracking + WhatsApp Integration         │
+│  🔁  Rule-Based Lead Auto-Assignment Engine       │
+└─────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -151,8 +167,6 @@
 </p>
 
 ---
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranjwalg&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
