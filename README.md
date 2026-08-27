@@ -29,7 +29,7 @@
 ## 👩‍💻 About Me
 
 ```yaml
-🏢 Role:        Technical Team Lead & Full Stack Developer @ Infosware Private Limited
+🏢 Role:        Senior Software Engineer & Full Stack Developer @ Infosware Private Limited
 🛠️ Building:    Multi-tenant SaaS CRM — 15+ modules, RBAC, real-time, production-grade
 ☁️ Cloud:       AWS | Docker | Kubernetes | CI/CD pipelines
 🎓 Education:   Pursuing M.Tech (CSE) alongside full-time work
