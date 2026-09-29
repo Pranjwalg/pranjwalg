@@ -122,7 +122,7 @@ const pranjwal = {
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,angular,nextjs,redux,tailwind,bootstrap,mui&perline=12&theme=dark" alt="Languages and frontend"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,socketio,rabbitmq,postgres,mongodb,mysql,redis,prisma,firebase&perline=12&theme=dark" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,rabbitmq,postgres,mongodb,mysql,redis,prisma,firebase&perline=12&theme=dark" alt="Backend and databases"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,git,github,bitbucket,vercel,postman,jest,cypress&perline=12&theme=dark" alt="Cloud, DevOps and tools"/>
 
@@ -247,7 +247,11 @@ const pranjwal = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%"/>
