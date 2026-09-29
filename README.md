@@ -247,13 +247,13 @@ Clean Code • Code Reviews • Mentoring • Agile/Scrum
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranjwalg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjwalg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjwalg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="45%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjwalg&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="45%"/>
 </p>
 
 ---
