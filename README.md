@@ -8,9 +8,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%7C%20Senior%20Software%20Engineer-22C55E?style=for-the-badge" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-22C55E?style=for-the-badge" alt="Open to Work"/>
 
-<br/><br/>
+<p align="center">
+  <sub><b>Senior Software Engineer</b> · <b>Software Engineer</b> · <b>Full Stack Developer</b> · <b>Frontend Developer</b> · <b>Backend Developer</b> · <b>MERN Stack Developer</b> · <b>MEAN Stack Developer</b></sub>
+</p>
 
 <a href="https://www.linkedin.com/in/pranjwal-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://pranjwal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -36,6 +38,8 @@
 const pranjwal = {
   role: "Senior Software Engineer & Full Stack Developer",
   experience: "3.5+ years building production-grade web apps",
+  openTo: ["Senior Software Engineer", "Software Engineer", "Full Stack Developer",
+           "Frontend Developer", "Backend Developer", "MERN Stack", "MEAN Stack"],
   loves: ["SaaS", "Multi-Tenant Architecture", "Clean Code", "Real-World Products"],
   stack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "AWS"],
   education: "Pursuing M.Tech in Computer Science & Engineering",
@@ -258,7 +262,8 @@ const pranjwal = {
 ## 📫 Let's Connect
 
 <p align="center">
-  Happy to talk about <b>SaaS, scalable architecture and AI products</b>.
+  🟢 <b>Open to opportunities</b> as Senior Software Engineer, Software Engineer, Full Stack, Frontend, Backend, MERN or MEAN Stack Developer.<br/>
+  Also happy to talk about <b>SaaS, scalable architecture and AI products</b>.
 </p>
 
 <p align="center">
