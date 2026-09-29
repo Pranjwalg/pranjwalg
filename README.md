@@ -247,8 +247,8 @@ Clean Code • Code Reviews • Mentoring • Agile/Scrum
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjwalg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjwalg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195"/>
 </p>
 
 <p align="center">
