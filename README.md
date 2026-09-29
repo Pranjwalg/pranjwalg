@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-6366F1?style=flat-square&logo=briefcase&logoColor=white" alt="Experience"/>
-<img src="https://img.shields.io/badge/Modules%20Shipped-15%2B-8B5CF6?style=flat-square" alt="Modules"/>
+<img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-6366F1?style=flat-square" alt="Experience"/>
+<img src="https://img.shields.io/badge/CRM%20Modules%20Shipped-15%2B-8B5CF6?style=flat-square" alt="Modules"/>
 <img src="https://img.shields.io/badge/Research-Published%20in%20IRJMETS-10B981?style=flat-square" alt="Research"/>
 <img src="https://img.shields.io/badge/M.Tech-CSE-F59E0B?style=flat-square" alt="M.Tech"/>
 
@@ -36,17 +36,83 @@ const pranjwal = {
   stack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "AWS"],
   education: "Pursuing M.Tech in Computer Science & Engineering",
   research: "Published: Sarthak Companion — AI-Based Grief Support Framework",
-  currentlyBuilding: "Scalable multi-tenant CRM platform",
   motto: "Always learning. Always building. Always improving."
 };
 ```
 
-### 🔭 What I'm Up To
+### 🔭 What I Do
 
-- 🏢 Building and scaling a **multi-tenant SaaS CRM** used in production
-- 🎓 Pursuing **M.Tech in CSE** alongside full-time work
+- 🏢 Architect and ship **multi-tenant SaaS platforms** with RBAC, billing and real-time features
+- ☁️ Own **AWS deployments and CI/CD pipelines** end to end
 - 🤖 Exploring **AI / LLM integration** in real-world products
-- 👥 Mentoring interns and leading code reviews
+- 👥 Mentor interns and lead **code reviews** to raise code quality
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%"/>
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="24%" valign="top">
+      <b>Senior Software Engineer</b><br/>
+      Infosware Private Limited<br/>
+      <sub>Jan 2026 – Aug 2026 · Noida</sub>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Owned end-to-end deployment on <b>AWS</b> (EC2, RDS, S3, Amplify, Load Balancer) with <b>GitHub Actions CI/CD</b></li>
+        <li>Added <b>GraphQL APIs</b>, <b>Redis caching</b> and <b>RabbitMQ</b> async processing to the CRM</li>
+        <li>Built the <b>Super Admin panel</b> and a full <b>Razorpay subscription and billing</b> system</li>
+        <li>Added <b>LinkedIn and IndiaMART</b> lead integrations; restructured modules into department-wise workflows</li>
+        <li>Led the team: mentored interns, ran code reviews; built <a href="https://infosware.in">infosware.in</a> with Next.js</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">
+      <b>Full Stack Developer</b><br/>
+      Infosware Private Limited<br/>
+      <sub>Feb 2025 – Jan 2026 · Noida</sub>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Architected and launched a multi-tenant SaaS CRM with <b>15+ modules</b> (<a href="https://app.infoswarecrm.com">app.infoswarecrm.com</a>)</li>
+        <li>Designed granular <b>RBAC</b> with tenant-level data isolation and module-level access control</li>
+        <li>Built an <b>automated lead assignment engine</b> for website forms and Meta ad campaigns</li>
+        <li><b>Socket.IO</b> real-time notifications, <b>SendGrid</b> Email Center, <b>Jest + Cypress</b> test coverage</li>
+        <li>Delivered a smart card vehicle conversion platform for the <b>Karnataka Government</b>, cutting manual effort by ~70%</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">
+      <b>MERN Stack Developer</b><br/>
+      digiPanda Consulting Pvt. Ltd.<br/>
+      <sub>Apr 2024 – Jan 2025 · Noida</sub>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Engineered <b>VisaLiv</b>, a visa and tour services platform (React, Next.js, Firebase)</li>
+        <li>Built the <b>Sailax DBC</b> admin panel from scratch with in-app chat and KPI dashboards (<a href="https://sailaxdbc.com">sailaxdbc.com</a>)</li>
+        <li>Used <b>TanStack Query</b> for server-state management, caching and background refetching</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">
+      <b>Software Developer</b><br/>
+      DrillMaps<br/>
+      <sub>Mar 2023 – Apr 2024 · Noida</sub>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>Built responsive apps with <b>React, Angular, Next.js</b>, Material UI and Firebase</li>
+        <li>Created reusable components and integrated REST APIs</li>
+        <li>Optimized frontend performance and reduced page load times</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%"/>
 
@@ -54,11 +120,11 @@ const pranjwal = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,redux,tailwind,bootstrap,mui&perline=11&theme=dark" alt="Frontend and languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,angular,nextjs,redux,tailwind,bootstrap,mui&perline=12&theme=dark" alt="Languages and frontend"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,socketio,rabbitmq,postgres,mongodb,mysql,redis,prisma&perline=11&theme=dark" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,socketio,rabbitmq,postgres,mongodb,mysql,redis,prisma,firebase&perline=12&theme=dark" alt="Backend and databases"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,git,github,vercel,bash,postman,jest,cypress&perline=12&theme=dark" alt="Cloud, DevOps and tools"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions,git,github,bitbucket,vercel,postman,jest,cypress&perline=12&theme=dark" alt="Cloud, DevOps and tools"/>
 
 </div>
 
@@ -69,17 +135,15 @@ const pranjwal = {
 | Category | Technologies |
 |----------|--------------|
 | Languages | JavaScript (ES6+), TypeScript, Python, HTML5, CSS3 |
-| Frontend | React.js, Next.js, Redux Toolkit, RTK Query, TanStack Query, Tailwind CSS, ShadCN UI, Material UI, Bootstrap |
+| Frontend | React.js, Angular, Next.js, Redux Toolkit, RTK Query, TanStack Query, Material UI, Tailwind CSS, ShadCN UI, Bootstrap |
 | Backend | Node.js, Express.js, NestJS, REST APIs, GraphQL, Socket.IO |
-| Databases & ORM | PostgreSQL, MongoDB, MySQL, Redis, Prisma ORM |
-| Messaging & Real-Time | RabbitMQ, Socket.IO |
-| Architecture | SaaS, Multi-Tenant Architecture, Microservices, RBAC, JWT Authentication, Subscription Systems, Real-Time Applications |
-| Cloud & DevOps | AWS, EC2, ECS, ECR, RDS, S3, CloudWatch, Amplify, Docker, Kubernetes, Linux |
-| CI/CD | GitHub Actions, CI/CD Pipelines, Shell Scripting, Cron Jobs |
+| Databases & ORM | PostgreSQL, MongoDB, MySQL, Redis, Prisma ORM, Firebase |
+| Architecture | SaaS, Multi-Tenant Architecture, Microservices, RBAC, JWT Authentication, Real-Time Applications |
+| Messaging | RabbitMQ |
+| Cloud & DevOps | AWS (EC2, ECS, ECR, RDS, S3, CloudWatch, Load Balancer, Amplify), Docker, Kubernetes, GitHub Actions, CI/CD, Linux |
 | Testing | Jest, Cypress, Mocha, API Testing, E2E Testing |
-| Payments & Integrations | Razorpay, Subscription & Billing Systems, Third-Party API Integrations |
+| Payments & Integrations | Razorpay, SendGrid, REST API Integrations, Subscription & Billing Systems |
 | Tools | Git, GitHub, Bitbucket, Vercel, Postman |
-| AI & Research | AI/ML, LLM Integration, Research & Development |
 
 </details>
 
@@ -90,14 +154,14 @@ const pranjwal = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 CRM — Multi-Tenant SaaS</h3>
-      <p>Production-grade CRM with <b>15+ modules</b>: Sales Pipeline, Leads, Tasks, Quotations, Invoices, Email Center and department-wise workflows.</p>
+      <h3>🏢 <a href="https://app.infoswarecrm.com">CRM — Multi-Tenant SaaS</a></h3>
+      <p>Production-grade CRM with <b>15+ modules</b>: Sales Pipeline (Kanban), Leads, Follow-ups, Tasks, Quotations, Invoices, Meetings, Email Center, WhatsApp Center and Service Workflows.</p>
       <ul>
-        <li>Tenant-level data isolation + RBAC</li>
+        <li>Tenant-level data isolation + granular RBAC</li>
         <li>Super Admin panel for onboarding and verification</li>
         <li>Razorpay subscriptions and billing</li>
         <li>Auto lead assignment from Website, Meta, LinkedIn, IndiaMART</li>
-        <li>Real-time notifications, AWS deployment, CI/CD</li>
+        <li>GraphQL, Redis caching, RabbitMQ, real-time notifications</li>
       </ul>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -111,12 +175,12 @@ const pranjwal = {
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Sailax DBC — Admin & KPI Dashboard</h3>
+      <h3>📊 <a href="https://sailaxdbc.com">Sailax DBC — Admin & KPI Dashboard</a></h3>
       <p>Built the admin panel <b>from scratch</b> with an in-app chat system and KPI dashboards tracking signups, daily active users and growth metrics.</p>
       <ul>
-        <li>Real-time in-app chat</li>
+        <li>In-app chat system</li>
         <li>Growth and engagement analytics</li>
-        <li>Reusable, scalable UI architecture</li>
+        <li>Responsive, reusable UI components</li>
       </ul>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
@@ -138,10 +202,10 @@ const pranjwal = {
     </td>
     <td width="50%" valign="top">
       <h3>✈️ VisaLiv — Visa & Tour Services</h3>
-      <p>Visa and tour services platform built with React and Next.js, integrating third-party APIs for seamless visa processing and service management.</p>
+      <p>Visa and tour services platform built with React and Next.js, integrating third-party APIs for visa processing and service management.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
     </td>
   </tr>
@@ -158,38 +222,13 @@ const pranjwal = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%"/>
 
-## 🏆 Highlights
+## 🎓 Education
 
-<table>
-  <tr>
-    <td>🏗️</td>
-    <td>Architected a <b>15+ module multi-tenant SaaS CRM</b> with RBAC, real-time capabilities, subscription billing and automated lead assignment.</td>
-  </tr>
-  <tr>
-    <td>💳</td>
-    <td>Built a complete <b>subscription and billing system</b> with Razorpay covering plan management, renewals and payment tracking.</td>
-  </tr>
-  <tr>
-    <td>🔗</td>
-    <td>Integrated <b>Website, Meta, LinkedIn and IndiaMART</b> lead sources with automated rule-based assignment.</td>
-  </tr>
-  <tr>
-    <td>🏛️</td>
-    <td>Delivered a <b>Karnataka Government</b> smart card platform that reduced manual processing effort by about <b>70%</b>.</td>
-  </tr>
-  <tr>
-    <td>☁️</td>
-    <td>Handled <b>AWS deployments and CI/CD automation</b> with GitHub Actions for production applications.</td>
-  </tr>
-  <tr>
-    <td>👥</td>
-    <td>Mentored interns, conducted code reviews, improved dev workflows and contributed to technical decisions.</td>
-  </tr>
-  <tr>
-    <td>📝</td>
-    <td>Published a <b>research paper</b> on an AI-based grief support framework in IRJMETS.</td>
-  </tr>
-</table>
+| Degree | Institute | Duration |
+|--------|-----------|----------|
+| M.Tech, Computer Science & Engineering | Sagar Institute of Technology & Management, Barabanki | 2025 – Present |
+| B.Tech, Computer Science & Engineering | Noida Institute of Engineering & Technology, Greater Noida | Jul 2020 – Jul 2023 |
+| Diploma, Information Technology | Government Girls Polytechnic, Lucknow | Apr 2017 – Jul 2020 |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%"/>
 
@@ -216,7 +255,7 @@ const pranjwal = {
 ## 📫 Let's Connect
 
 <p align="center">
-  Open to interesting conversations about <b>SaaS, scalable architecture and AI products</b>.
+  Happy to talk about <b>SaaS, scalable architecture and AI products</b>.
 </p>
 
 <p align="center">
