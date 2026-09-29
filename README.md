@@ -8,6 +8,10 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20%7C%20Senior%20Software%20Engineer-22C55E?style=for-the-badge" alt="Open to Work"/>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/pranjwal-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://pranjwal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:pranjwalgupta95063@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -236,12 +240,11 @@ const pranjwal = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjwalg&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="45%"/>
-  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="45%"/>
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" height="195"/>
+  <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" height="195"/>
 </p>
 
 ## 🐍 Contribution Snake
