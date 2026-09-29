@@ -22,7 +22,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-6366F1?style=flat-square" alt="Experience"/>
-<img src="https://img.shields.io/badge/CRM%20Modules%20Shipped-15%2B-8B5CF6?style=flat-square" alt="Modules"/>
+<img src="https://img.shields.io/badge/CRM%20Modules%20Shipped-20%2B-8B5CF6?style=flat-square" alt="Modules"/>
 <img src="https://img.shields.io/badge/Research-Published%20in%20IRJMETS-10B981?style=flat-square" alt="Research"/>
 <img src="https://img.shields.io/badge/M.Tech-CSE-F59E0B?style=flat-square" alt="M.Tech"/>
 
@@ -84,7 +84,7 @@ const pranjwal = {
     </td>
     <td valign="top">
       <ul>
-        <li>Architected and launched a multi-tenant SaaS CRM with <b>15+ modules</b> (<a href="https://app.infoswarecrm.com">app.infoswarecrm.com</a>)</li>
+        <li>Architected and launched a multi-tenant SaaS CRM with <b>20+ modules</b> (<a href="https://app.infoswarecrm.com">app.infoswarecrm.com</a>)</li>
         <li>Designed granular <b>RBAC</b> with tenant-level data isolation and module-level access control</li>
         <li>Built an <b>automated lead assignment engine</b> for website forms and Meta ad campaigns</li>
         <li><b>Socket.IO</b> real-time notifications, <b>SendGrid</b> Email Center, <b>Jest + Cypress</b> test coverage</li>
@@ -163,7 +163,7 @@ const pranjwal = {
   <tr>
     <td width="50%" valign="top">
       <h3>🏢 <a href="https://app.infoswarecrm.com">CRM — Multi-Tenant SaaS</a></h3>
-      <p>Production-grade CRM with <b>15+ modules</b>: Sales Pipeline (Kanban), Leads, Follow-ups, Tasks, Quotations, Invoices, Meetings, Email Center, WhatsApp Center and Service Workflows.</p>
+      <p>Production-grade CRM with <b>20+ modules</b>: Sales Pipeline (Kanban), Leads, Follow-ups, Tasks, Products, Services, Projects, Quotes, Invoices, Payments, Meetings, Accounts & Contacts, Departments, Integrations, Email Center, WhatsApp Center and Activity Log.</p>
       <ul>
         <li>Tenant-level data isolation + granular RBAC</li>
         <li>Super Admin panel for onboarding and verification</li>
