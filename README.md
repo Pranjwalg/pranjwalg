@@ -37,3 +37,134 @@
 🎓 Education:   Pursuing M.Tech in Computer Science & Engineering
 📄 Research:    Published "Sarthak Companion: AI-Based Grief Support Framework"
 💡 Focus:       Scalable architecture · Clean code · Real-world products
+🛠️ Tech Stack
+<table width="100%"> <tr> <td valign="top" width="50%">
+💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+⚛️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" /> </td> <td valign="top" width="50%">
+🔧 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" /> </td> </tr> <tr> <td valign="top" width="50%">
+☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,githubactions" /> </td> <td valign="top" width="50%">
+🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vercel,bash,postman" /> </td> </tr> </table> <details> <summary><b>📋 Full Skills Breakdown</b></summary> <br/>
+Category	Technologies
+Languages	JavaScript (ES6+), TypeScript, Python, HTML5, CSS3
+Frontend	React.js, Next.js, Redux Toolkit, RTK Query, TanStack Query, Tailwind CSS, ShadCN UI, Material UI, Bootstrap
+Backend	Node.js, Express.js, NestJS, REST APIs, GraphQL, Socket.IO
+Databases & ORM	PostgreSQL, MongoDB, MySQL, Redis, Prisma ORM
+Messaging & Real-Time	RabbitMQ, Socket.IO
+Architecture	SaaS, Multi-Tenant Architecture, Microservices, RBAC, JWT Authentication, Subscription Systems, Real-Time Applications
+Cloud & DevOps	AWS, Docker, Kubernetes, Linux, CI/CD, GitHub Actions
+AWS Services	EC2, ECS, ECR, RDS, S3, CloudWatch, Amplify, Load Balancer
+Testing	Jest, Cypress, Mocha, API Testing, E2E Testing
+Payments & Integrations	Razorpay, Subscription & Billing Systems, Third-Party API Integrations
+Tools	Git, GitHub, Bitbucket, Vercel, Postman
+AI & Research	AI/ML, LLM Integration, Research & Development
+</details>
+🚀 Featured Projects
+🏢 CRM — Multi-Tenant SaaS Platform
+
+Architected and developed a production-grade multi-tenant SaaS CRM with 15+ modules including Sales Pipeline, Lead Management, Task Management, Quotations, Invoices, Email Center, Account & Contact Management, and department-wise workflows.
+
+Key capabilities:
+
+Multi-tenant architecture with tenant-level data isolation
+Role-Based Access Control (RBAC)
+Super Admin platform for company onboarding and verification
+Razorpay subscription and billing system
+Automated lead assignment engine
+Website, Meta, LinkedIn, and IndiaMart lead integrations
+Real-time notifications and communication workflows
+GraphQL-based API architecture
+Redis-based caching and performance optimization
+RabbitMQ-based asynchronous processing
+Automated testing with Jest and Cypress
+Dockerized application architecture
+AWS production deployment
+CI/CD automation using GitHub Actions
+
+Tech Stack:
+React.js Node.js TypeScript PostgreSQL Prisma GraphQL Redis RabbitMQ Redux Toolkit RTK Query Socket.IO Docker AWS GitHub Actions Jest Cypress
+
+📊 Sailax DBC — Admin Panel & KPI Dashboard
+
+Built the Sailax DBC admin panel from scratch, including an in-app chat system and real-time KPI dashboards tracking user signups, daily active users, and growth metrics.
+
+Tech Stack:
+Next.js Redux Toolkit TanStack Query Material UI Tailwind CSS ShadCN UI
+
+🚗 Smart Card-Based Vehicle Card Conversion Platform
+
+Built a smart card-based vehicle card conversion platform for the Karnataka Government, integrating an ACR39U ICC Reader and Evolis Printer, reducing manual processing effort by approximately 70% through automation.
+
+Tech Stack:
+React.js Node.js JavaScript Smart Card Integration ACR39U ICC Reader Evolis Printer
+
+✈️ VisaLiv — Visa & Tour Services Platform
+
+Engineered VisaLiv, a visa and tour services platform using React.js and Next.js, integrating third-party APIs to enable seamless visa processing and service management.
+
+Tech Stack:
+React.js Next.js REST APIs JavaScript Bootstrap
+
+🧠 Sarthak Companion — AI-Based Grief Support Framework
+
+Designed and published an AI-based grief support framework for Indian families experiencing sudden bereavement, combining conversational AI with culturally sensitive support workflows.
+
+Published as a research paper in IRJMETS, Volume 08, Issue 06, June 2026.
+
+Focus:
+AI/ML Conversational AI Research & Development
+
+🏆 Highlights
+<table> <tr> <td>🏗️</td> <td>Architected a <b>15+ module multi-tenant SaaS CRM</b> with RBAC, real-time capabilities, subscription billing, and automated lead assignment.</td> </tr> <tr> <td>💳</td> <td>Built a complete <b>subscription and billing system</b> with Razorpay integration covering plan management, renewals, and payment tracking.</td> </tr> <tr> <td>🔗</td> <td>Integrated <b>Website, Meta, LinkedIn, and IndiaMart</b> lead sources with automated rule-based lead assignment.</td> </tr> <tr> <td>🏛️</td> <td>Built a <b>Karnataka Government</b> smart card vehicle platform, reducing manual processing effort by approximately <b>70%</b>.</td> </tr> <tr> <td>☁️</td> <td>Worked on <b>AWS deployments and CI/CD automation</b> using GitHub Actions for production applications.</td> </tr> <tr> <td>🧪</td> <td>Worked with <b>Jest and Cypress</b> for unit, integration, and end-to-end testing workflows.</td> </tr> <tr> <td>👥</td> <td>Mentored interns, conducted code reviews, improved development workflows, and contributed to technical decisions.</td> </tr> <tr> <td>📝</td> <td>Published an <b>AI-based research paper</b> in IRJMETS on grief support for families experiencing sudden bereavement.</td> </tr> </table>
+🎯 Core Expertise
+Frontend
+React.js • Next.js • TypeScript • Redux Toolkit • RTK Query
+TanStack Query • Tailwind CSS • ShadCN UI • Material UI
+
+Backend
+Node.js • Express.js • NestJS • REST APIs • GraphQL • Socket.IO
+
+Databases
+PostgreSQL • MongoDB • MySQL • Redis • Prisma ORM
+
+Messaging
+RabbitMQ • Real-Time Communication • Event-Driven Workflows
+
+Cloud & DevOps
+AWS • Docker • Kubernetes • GitHub Actions • CI/CD
+
+Architecture
+SaaS • Multi-Tenant Architecture • Microservices
+RBAC • JWT Authentication • Subscription Systems
+
+Testing
+Jest • Cypress • Mocha • API Testing • E2E Testing
+🎓 Education & Research
+
+Master of Technology — Computer Science & Engineering
+Sagar Institute of Technology and Management, Barabanki
+2025 – Present
+
+Bachelor of Technology — Computer Science & Engineering
+Noida Institute of Engineering & Technology
+2020 – 2023
+
+📄 Published Research
+
+Sarthak Companion — AI-Based Grief Support Framework for Indian Families Experiencing Sudden Bereavement
+
+Published in IRJMETS — Volume 08, Issue 06, June 2026
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pranjwalg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjwalg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjwalg&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="45%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjwalg&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="45%"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Pranjwalg/Pranjwalg/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/> </p>
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/pranjwal-gupta" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://pranjwal.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="mailto:pranjwalgupta95063@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://orcid.org/0009-0009-8000-7715" target="_blank"> <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pranjwalg&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views"/> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=150&section=footer" width="100%"/> <p align="center"> ⭐ <i>Always learning. Always building. Always improving.</i> ⭐ </p> ```
