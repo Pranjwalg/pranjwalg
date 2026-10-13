@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=230&section=header&text=Pranjwal%20Gupta&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=230&section=header&text=Pranjwal%20Gupta&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/Pranjwalg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Building+Scalable+Full+Stack+Applications+%E2%9A%A1;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Multi-Tenant+SaaS+%7C+AWS+%7C+Docker+%7C+CI%2FCD;Turning+Complex+Problems+into+Clean+Products+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-22C55E?style=for-the-badge" alt="Open to Work"/>
 
 <p align="center">
-  <sub><b>Senior Software Engineer</b> · <b>Software Engineer</b> · <b>Full Stack Developer</b> · <b>Frontend Developer</b> · <b>Backend Developer</b> · <b>MERN Stack Developer</b> · <b>MEAN Stack Developer</b></sub>
+  <sub><b>Full Stack Developer</b> · <b>MERN Stack Developer</b> · <b>Software Engineer</b> · <b>Frontend Developer</b> · <b>Backend Developer</b> · <b>MEAN Stack Developer</b></sub>
 </p>
 
 <a href="https://www.linkedin.com/in/pranjwal-gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Experience-3.5%2B%20Years-6366F1?style=flat-square" alt="Experience"/>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-6366F1?style=flat-square" alt="Experience"/>
 <img src="https://img.shields.io/badge/CRM%20Modules%20Shipped-20%2B-8B5CF6?style=flat-square" alt="Modules"/>
 <img src="https://img.shields.io/badge/Research-Published%20in%20IRJMETS-10B981?style=flat-square" alt="Research"/>
 <img src="https://img.shields.io/badge/M.Tech-CSE-F59E0B?style=flat-square" alt="M.Tech"/>
@@ -36,8 +36,8 @@
 
 ```js
 const pranjwal = {
-  role: "Senior Software Engineer & Full Stack Developer",
-  experience: "3.5+ years building production-grade web apps",
+  role: "Full Stack Developer",
+  experience: "3+ years building production-grade web apps",
   openTo: ["Senior Software Engineer", "Software Engineer", "Full Stack Developer",
            "Frontend Developer", "Backend Developer", "MERN Stack", "MEAN Stack"],
   loves: ["SaaS", "Multi-Tenant Architecture", "Clean Code", "Real-World Products"],
@@ -62,33 +62,21 @@ const pranjwal = {
 <table>
   <tr>
     <td width="24%" valign="top">
-      <b>Senior Software Engineer</b><br/>
-      Infosware Private Limited<br/>
-      <sub>Jan 2026 – Aug 2026 · Noida</sub>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>Owned end-to-end deployment on <b>AWS</b> (EC2, RDS, S3, Amplify, Load Balancer) with <b>GitHub Actions CI/CD</b></li>
-        <li>Added <b>GraphQL APIs</b>, <b>Redis caching</b> and <b>RabbitMQ</b> async processing to the CRM</li>
-        <li>Built the <b>Super Admin panel</b> and a full <b>Razorpay subscription and billing</b> system</li>
-        <li>Added <b>LinkedIn and IndiaMART</b> lead integrations; restructured modules into department-wise workflows</li>
-        <li>Led the team: mentored interns, ran code reviews; built <a href="https://infosware.in">infosware.in</a> with Next.js</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top">
       <b>Full Stack Developer</b><br/>
       Infosware Private Limited<br/>
-      <sub>Feb 2025 – Jan 2026 · Noida</sub>
+      <sub>Feb 2025 – Aug 2026 · Noida, UP</sub>
     </td>
     <td valign="top">
       <ul>
         <li>Architected and launched a multi-tenant SaaS CRM with <b>20+ modules</b> (<a href="https://app.infoswarecrm.com">app.infoswarecrm.com</a>)</li>
-        <li>Designed granular <b>RBAC</b> with tenant-level data isolation and module-level access control</li>
-        <li>Built an <b>automated lead assignment engine</b> for website forms and Meta ad campaigns</li>
+        <li>Designed department-wise role hierarchy and workflows with granular <b>RBAC</b>, tenant-level data isolation and module-level access control</li>
+        <li>Improved backend performance with <b>GraphQL APIs</b>, <b>Redis caching</b> and <b>RabbitMQ</b> async processing</li>
+        <li>Built an <b>automated lead assignment engine</b> for website forms and Meta ad campaigns, plus <b>LinkedIn and IndiaMART</b> integrations</li>
+        <li>Built the <b>Super Admin panel</b> and a full <b>Razorpay subscription and billing</b> system</li>
         <li><b>Socket.IO</b> real-time notifications, <b>SendGrid</b> Email Center, <b>Jest + Cypress</b> test coverage</li>
+        <li>Owned end-to-end deployment on <b>AWS</b> (EC2, RDS, S3, Amplify, Load Balancer) with <b>GitHub Actions CI/CD</b></li>
         <li>Delivered a smart card vehicle conversion platform for the <b>Karnataka Government</b>, cutting manual effort by ~70%</li>
+        <li>Led development efforts: mentored interns, ran code reviews; built <a href="https://infosware.in">infosware.in</a> with Next.js</li>
       </ul>
     </td>
   </tr>
@@ -96,7 +84,7 @@ const pranjwal = {
     <td width="24%" valign="top">
       <b>MERN Stack Developer</b><br/>
       digiPanda Consulting Pvt. Ltd.<br/>
-      <sub>Apr 2024 – Jan 2025 · Noida</sub>
+      <sub>Apr 2024 – Jan 2025 · Noida, UP</sub>
     </td>
     <td valign="top">
       <ul>
@@ -110,7 +98,7 @@ const pranjwal = {
     <td width="24%" valign="top">
       <b>Software Developer</b><br/>
       DrillMaps<br/>
-      <sub>Mar 2023 – Apr 2024 · Noida</sub>
+      <sub>Sep 2023 – Apr 2024 · Noida, UP</sub>
     </td>
     <td valign="top">
       <ul>
@@ -209,7 +197,7 @@ const pranjwal = {
       <img src="https://img.shields.io/badge/Evolis_Printer-555555?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>✈️ VisaLiv — Visa & Tour Services</h3>
+      <h3>✈️ <a href="https://visaliv.com">VisaLiv — Visa & Tour Services</a></h3>
       <p>Visa and tour services platform built with React and Next.js, integrating third-party APIs for visa processing and service management.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -234,7 +222,7 @@ const pranjwal = {
 
 | Degree | Institute | Duration |
 |--------|-----------|----------|
-| M.Tech, Computer Science & Engineering | Sagar Institute of Technology & Management, Barabanki | 2025 – Present |
+| M.Tech, Computer Science & Engineering | Sagar Institute of Technology & Management, Barabanki | Jul 2025 – Present |
 | B.Tech, Computer Science & Engineering | Noida Institute of Engineering & Technology, Greater Noida | Jul 2020 – Jul 2023 |
 | Diploma, Information Technology | Government Girls Polytechnic, Lucknow | Apr 2017 – Jul 2020 |
 
@@ -262,7 +250,7 @@ const pranjwal = {
 ## 📫 Let's Connect
 
 <p align="center">
-  🟢 <b>Open to opportunities</b> as Senior Software Engineer, Software Engineer, Full Stack, Frontend, Backend, MERN or MEAN Stack Developer.<br/>
+  🟢 <b>Open to opportunities</b> as Full Stack, MERN Stack, Software Engineer, Senior Software Engineer, Frontend, Backend or MEAN Stack Developer.<br/>
   Also happy to talk about <b>SaaS, scalable architecture and AI products</b>.
 </p>
 
