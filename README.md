@@ -38,7 +38,7 @@
 const pranjwal = {
   role: "Full Stack Developer & AI Engineer",
   experience: "3+ years building distributed systems, SaaS platforms & AI apps",
-  ecosystems: ["Java / Spring Boot", "MERN Stack"],
+  ecosystems: ["Java / Spring Boot", "MERN Stack", "Python / FastAPI"],
   openTo: ["Full Stack Developer", "AI Engineer", "Java Spring Boot Developer",
            "MERN Stack Developer", "Backend Developer", "Software Engineer"],
   loves: ["Microservices", "Event-Driven Systems", "Multi-Tenant SaaS", "Agentic AI"],
@@ -53,7 +53,7 @@ const pranjwal = {
 - ☕ Build **Java / Spring Boot microservices** with **Apache Kafka** event pipelines
 - 🤖 Build **AI applications** with **LangChain, LangGraph, RAG** and multi-agent tool calling
 - ☁️ Own **AWS deployments and CI/CD pipelines** end to end
-- 👥 Mentor interns and lead **code reviews** to raise code quality
+- 👥 Mentor interns (including **Python & FastAPI**) and lead **code reviews** to raise code quality
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header" width="100%"/>
 
@@ -74,6 +74,7 @@ const pranjwal = {
         <li>Built a <b>Razorpay subscription and billing</b> system and a <b>Super Admin</b> panel for tenant onboarding</li>
         <li>Delivered a smart card vehicle conversion platform for the <b>Karnataka Government</b>, cutting manual effort by ~70%</li>
         <li>Owned <b>AWS</b> deployments (EC2, RDS, S3, Load Balancer) with <b>GitHub Actions CI/CD</b>; led code reviews and mentored interns</li>
+        <li>Mentored interns in <b>Python and FastAPI</b>, guiding them through an <b>Invoice OCR Tracker</b> and an <b>Invoice Generator</b></li>
       </ul>
     </td>
   </tr>
@@ -94,7 +95,6 @@ const pranjwal = {
   <tr>
     <td width="24%" valign="top">
       <b>Software Developer</b><br/>
-      <sub>(Java & Distributed Systems)</sub><br/>
       DrillMaps<br/>
       <sub>Sep 2023 – Apr 2024 · Noida, UP</sub>
     </td>
@@ -128,11 +128,11 @@ const pranjwal = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,nestjs,express,graphql,rabbitmq,redis&perline=12&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,nestjs,express,python,fastapi,graphql,rabbitmq,redis&perline=12&theme=dark" alt="Backend"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,redux,tailwind,mui,postgres,mysql,mongodb,prisma&perline=12&theme=dark" alt="Frontend and databases"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,linux,git,github,postman,jest,cypress&perline=12&theme=dark" alt="Cloud, DevOps and tools"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux,git,github,postman,jest,cypress&perline=12&theme=dark" alt="Cloud, DevOps and tools"/>
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
@@ -148,13 +148,13 @@ const pranjwal = {
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | Java (Core & Advanced), JavaScript (ES6+), TypeScript, SQL, PL/SQL, HTML5, CSS3 |
+| Languages | Java (Core & Advanced), JavaScript (ES6+), TypeScript, SQL, PL/SQL, HTML5, CSS3, Python (FastAPI, working knowledge) |
 | Java Ecosystem | Spring, Spring Boot, Spring Cloud, Hibernate ORM, JDBC, Servlets, JSP |
 | MERN & Front-End | Node.js, Express.js, NestJS, React.js, Next.js, Angular, React Native, Redux Toolkit, RTK Query, Tailwind CSS, ShadCN UI |
 | Distributed Architecture | Apache Kafka (Event Streaming), REST APIs, GraphQL, Socket.IO |
 | AI Systems | LangChain, LangGraph, RAG, Vector Databases (Pinecone / Chroma), Text Embeddings, Function & Tool Calling |
 | Databases & Caching | PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM |
-| Cloud & DevOps | AWS (EC2, ECS, RDS, S3, Load Balancer), Docker, GitHub Actions, Jenkins, CI/CD |
+| Cloud & DevOps | AWS (EC2, ECS, RDS, S3, Load Balancer), Docker, Kubernetes (basic), GitHub Actions, Jenkins, CI/CD |
 | Testing & Tools | JUnit, Mockito, Jest, Cypress, Git, JIRA, Postman |
 | AI Productivity | Cursor IDE, GitHub Copilot |
 
