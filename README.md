@@ -280,7 +280,6 @@ const pranjwal = {
   <a href="mailto:pranjwalgupta95063@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://orcid.org/0009-0009-8000-7715" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranjwalg&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 </p>
