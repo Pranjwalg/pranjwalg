@@ -50,7 +50,7 @@ const pranjwal = {
 ### 🔭 What I Do
 
 - 🏢 Architect and ship **multi-tenant SaaS platforms** with RBAC, billing and real-time features
-- ☕ Build **Java / Spring Boot microservices** with **Apache Kafka** event pipelines
+- ☕ Work with **Java / Spring Boot microservices** and **Apache Kafka** event streams
 - 🤖 Build **AI applications** with **LangChain, LangGraph, RAG** and multi-agent tool calling
 - ☁️ Own **AWS deployments and CI/CD pipelines** end to end
 - 👥 Mentor interns (including **Python & FastAPI**) and lead **code reviews** to raise code quality
@@ -100,10 +100,10 @@ const pranjwal = {
     </td>
     <td valign="top">
       <ul>
-        <li>Migrated a monolithic application into <b>Spring Boot / Spring Cloud microservices</b></li>
-        <li>Designed an event-driven <b>Apache Kafka</b> pipeline for near real-time, high-volume processing</li>
-        <li>Built backend services with <b>Core Java and Hibernate</b> using TDD (<b>JUnit, Mockito</b>)</li>
-        <li>Ran services on <b>AWS (EC2, ECS, RDS)</b> with automated <b>Jenkins</b> deployments</li>
+        <li>Contributed to migrating a core monolithic application into <b>Spring Boot / Spring Cloud microservices</b> under senior supervision</li>
+        <li>Implemented <b>Kafka consumer</b> methods and data-validation logic to sanitize incoming telemetry data from <b>Apache Kafka</b> topics</li>
+        <li>Assisted in building backend components with <b>Java and Hibernate</b>, writing unit tests with <b>JUnit and Mockito</b></li>
+        <li>Supported deployments on <b>AWS</b> by packaging services in <b>Docker</b> and helping maintain <b>Jenkins CI/CD</b> pipelines</li>
       </ul>
     </td>
   </tr>
@@ -203,11 +203,11 @@ const pranjwal = {
     </td>
     <td width="50%" valign="top">
       <h3>☕ Monolith → Microservices</h3>
-      <p>Migrated a monolithic application into <b>Spring Boot / Spring Cloud</b> microservices with an event-driven <b>Apache Kafka</b> pipeline.</p>
+      <p>Contributed to migrating a monolithic application into <b>Spring Boot / Spring Cloud</b> microservices connected by <b>Apache Kafka</b>, as a junior developer on the team.</p>
       <ul>
-        <li>Near real-time, high-volume event processing</li>
-        <li>TDD with JUnit and Mockito</li>
-        <li>Jenkins deployments to AWS ECS</li>
+        <li>Built Kafka consumers and data-validation logic for incoming telemetry data</li>
+        <li>Unit tests with JUnit and Mockito</li>
+        <li>Docker packaging and Jenkins CI/CD support on AWS</li>
       </ul>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
